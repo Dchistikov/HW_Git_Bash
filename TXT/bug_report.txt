@@ -1,0 +1,8 @@
+Баг №1
+  title -
+  precondition - 
+  steps to reproduce - 
+  severity - 
+  link - 
+  expected_result - 
+  actual_result - 

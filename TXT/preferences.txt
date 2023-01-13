@@ -1,0 +1,6 @@
+
+	film - Green Book
+        serial - Money Heist
+        food - Sushi
+        season - summer
+        country - Russia

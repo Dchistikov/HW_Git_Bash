@@ -1,0 +1,3 @@
+<req>
+	<skills>mobile_testing,web_testing,regression_tests,smoke_tests</skills>
+</req>

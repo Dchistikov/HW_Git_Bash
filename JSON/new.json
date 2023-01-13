@@ -1,0 +1,10 @@
+{
+	"User":{
+  "first_name": "Danil",
+  "last_name": "Chistikov",
+  "middle_name": "Dmitrievich ",
+  "age": 26,
+  "pets": false,
+  "emails": ["Dchsitikov@yandex.ru"]
+}
+}

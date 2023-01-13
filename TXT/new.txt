@@ -1,0 +1,6 @@
+
+        first_name - Danil
+        last_name - Chistikov
+        age - 26
+        num_animals -  0
+        salary - 50000
