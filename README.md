@@ -1,8 +1,8 @@
 # HW_Git_Bash
 
-  <details>
+<details>
   <summary>HW_1_Git</summary>
 
 
- <details>
+<details>
   <summary>HW_2_Git</summary>
